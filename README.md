@@ -1,6 +1,6 @@
 # Computing-work
 ## My first repository
-### _Hello everyone!_ I am **Wynne**, a student from [Dunman High School](https://www.dhs.sg).
+### _Hello everyone!_ I am **Wynne**, a student from [Dunman High School](https://www.dunmanhigh.moe.edus.sg).
 My hobbies:
 * Drawing
 * Reading
