@@ -9,3 +9,4 @@ My hobbies:
 My education:
 1. Tampines Primary School
 2. Dunman High School
+Thank you!
